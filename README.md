@@ -36,4 +36,4 @@ I learned how virtualization works and how virtual machines, IP configuration, a
 
 Thank you to Waqas Karim (CCIE) and NETWORKWALKS for your support.
 
-📁 GitHub: https://lnkd.in/eFVqNFrF
+📁 linkedin:https://lnkd.in/p/eVrrGgas
