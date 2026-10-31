@@ -1,19 +1,15 @@
-# cybersecurity-internship
-A collection of my weekly assignments, practical activities, projects and learning experiences during my Cybersecurity Internship.
-Cybersecurity Testing Lab Setup
+🚀 I am excited to share my Week One progress in the NETWORKWALKS Cybersecurity Internship Batch (B084): Cybersecurity Testing Lab Setup
 
-Introduction
-
-This project involves setting up a cybersecurity testing lab environment on a laptop/PC using Oracle VirtualBox and Kali Linux.
+This week's project involved setting up a cybersecurity testing lab environment on a laptop using Oracle VirtualBox and Kali Linux.
 
 Objectives
 
-- Install and configure VirtualBox.
-- Set up Kali Linux as an attacking machine.
-- Configure a NAT Network.
-- Enable clipboard sharing and drag-and-drop.
-- Configure shared folders between the host machine and virtual machine.
-- Ensure internet connectivity.
+✅ Install and configure VirtualBox.
+✅ Set up Kali Linux as an attacking machine.
+✅ Configure a NAT Network.
+✅ Enable clipboard sharing and drag-and-drop.
+✅ Configure shared folders between the host machine and virtual machine.
+✅ Ensure internet connectivity.
 
 Tools Used
 
@@ -34,10 +30,10 @@ Virtual Machine Settings
 - Drag and Drop: Enabled
 - Shared Folder: Downloads folder from host machine
 
-Expected Outcome
+💡 What I Learned
 
-A properly configured cybersecurity testing lab with Kali Linux running in VirtualBox, network connectivity, shared folders and internet access.
+I learned how virtualization works and how virtual machines, IP configuration, and networking contribute to building a secure environment for cybersecurity practice.
 
-Conclusion
+Thank you to Waqas Karim (CCIE) and NETWORKWALKS for your support.
 
-This practical assignment provides hands-on experience in setting up a virtual cybersecurity lab environment for learning and conducting authorized security testing.
+📁 GitHub: https://lnkd.in/eFVqNFrF
